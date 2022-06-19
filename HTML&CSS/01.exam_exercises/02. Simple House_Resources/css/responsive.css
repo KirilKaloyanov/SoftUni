@@ -1,0 +1,31 @@
+@media screen and (max-width: 600px) {
+  .row {
+    flex-direction: column;
+    margin: 0;
+  }
+
+  .tm-gallery-page {
+    margin: 0 20px;
+    justify-content: center;
+  }
+
+  .tm-cta-section {
+    width: 600px;
+  }
+
+  .tm-section-title {
+    margin: 30px;
+  }
+
+  .tm-header-inner {
+    padding: 40px 0;
+  }
+
+  .tm-gallery-item {
+    max-width: 400px;
+  }
+
+  .tm-gallery-img {
+    width: 500px;
+  }
+}
